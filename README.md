@@ -1,4 +1,4 @@
-# 📚 UniLibrary Match: Intelligent Book Recommender System
+# 📚 UniLibrary: Intelligent Book Recommender System
 
 ### 👥 Team Profile
 * **Team Name:** IWC

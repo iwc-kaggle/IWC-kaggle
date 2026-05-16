@@ -20,7 +20,7 @@ This repository contains all the essential files needed to run, evaluate, and in
 
 ## 🛠️ Instructions to Open the User Interface (UI)
 
-Since GitHub Codespaces pre-installs the necessary core libraries, you can launch the application directly using the following steps:
+Since GitHub Codespaces pre-installs the necessary core libraries, you can launch the application directly using the following steps, after making sure that your device is not in "dark mode":
 
 1. **Open the Project:** Access the repository inside your GitHub Codespace environment.
 2. **Open the Terminal:** Locate the terminal panel at the bottom of the workspace screen.

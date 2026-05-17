@@ -3,8 +3,7 @@
 ### 👥 Team Profile
 * **Team Name:** IWC
 * **Team Components:** Riccardo Cerimele & Janina Spielkamp
-* **Project Video Presentation:** [Insert Link to Your Movie Trailer Video Here]
-
+* **Project Video Presentation:** (https://youtu.be/GQoXgbWhBT4)
 ---
 
 ## 📁 Repository Contents
